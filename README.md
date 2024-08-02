@@ -1,7 +1,7 @@
 # EXPERIMENT 3 
 
 # AIM: 
-to make a program with all operators 
+To study and implement Operators in C++
 
 # THEORY: 
 these are basically symbols that operate on operands. 
