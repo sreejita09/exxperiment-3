@@ -3,6 +3,9 @@
 # AIM: 
 To study and implement Operators in C++
 
+# software used
+VS code 
+
 # THEORY: 
 these are basically symbols that operate on operands. 
 
